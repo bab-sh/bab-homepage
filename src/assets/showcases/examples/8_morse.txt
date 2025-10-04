@@ -1,2 +1,0 @@
-bab "Thanks for checking out Bab" --style morse
-<span style="font-family: monospace; white-space: pre-wrap;">- .... .- -. -.- ... / ..-. --- .-. / -.-. .... . -.-. -.- .. -. --. / --- ..- - / -... .- -...</span>
