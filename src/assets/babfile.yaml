@@ -1,0 +1,11 @@
+dev:
+  desc: Start development server
+  run: npm run dev
+
+build:
+  desc: Build the site
+  run: npm run build
+
+deploy:
+  desc: Deploy to production
+  run: npm run deploy
