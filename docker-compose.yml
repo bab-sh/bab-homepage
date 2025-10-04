@@ -5,6 +5,6 @@ services:
       context: .
       dockerfile: Dockerfile
     ports:
-      - "8080:80"
+      - "${PORT}:80"
     restart: unless-stopped
     container_name: bab-homepage
