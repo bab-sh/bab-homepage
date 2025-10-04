@@ -34,7 +34,7 @@
                   :colors="{ first: '#9E7AFF', second: '#FE8BBB' }"
                   :sparkles-count="5"
                   class="inline"
-              />.
+              />
             </h2>
             <p class="mt-3 mb-6 text-left text-lg">
               The alternative for Makefile and Taskfile
