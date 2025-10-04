@@ -4,6 +4,7 @@ services:
     build:
       context: .
       dockerfile: Dockerfile
+    pull_policy: always
     ports:
       - "${PORT}:80"
     restart: unless-stopped
