@@ -6,22 +6,18 @@
       <section class="mb-8">
         <h2 class="text-2xl font-semibold mb-4">Information according to § 5 TMG</h2>
         <p class="mb-2">Bab.sh</p>
-        <p class="mb-2">[Your Name/Company]</p>
-        <p class="mb-2">[Street Address]</p>
-        <p class="mb-2">[Postal Code, City]</p>
-        <p class="mb-2">[Country]</p>
+        <p class="mb-2">Sebastian Stepper</p>
+        <p class="mb-2">Germany</p>
       </section>
 
       <section class="mb-8">
         <h2 class="text-2xl font-semibold mb-4">Contact</h2>
-        <p class="mb-2">Email: [your-email@example.com]</p>
+        <p class="mb-2">Email: sebastian-stepper@gmx.de</p>
       </section>
 
       <section class="mb-8">
         <h2 class="text-2xl font-semibold mb-4">Responsible for content according to § 55 Abs. 2 RStV</h2>
-        <p class="mb-2">[Your Name]</p>
-        <p class="mb-2">[Street Address]</p>
-        <p class="mb-2">[Postal Code, City]</p>
+        <p class="mb-2">Sebastian Stepper</p>
       </section>
 
       <section class="mb-8">
